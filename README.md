@@ -36,15 +36,17 @@ mkdir build
 cd build
 cmake ..
 cmake --build .
-./leap_clion
+./leap_clion```
 
 Or simply open the folder in CLion and click Run.
 
+
 ---
-Expected Output:
+## Expected Output:
 Connected.
 Frame 160499 with 1 hands.
 Hand id 234 is a right hand with position (x, y, z)
+
 
 ---
 **License**
