@@ -1,0 +1,13 @@
+# CLion / JetBrains
+.idea/
+
+# CMake build folders
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+#Compiled binaries
+leap_clion
+leap_poll
+
